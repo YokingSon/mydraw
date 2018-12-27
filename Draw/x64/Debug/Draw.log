@@ -1,0 +1,11 @@
+﻿  stdafx.cpp
+  MainFrm.cpp
+  DrawView.cpp
+DrawView.cpp(243): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+DrawView.cpp(249): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+DrawView.cpp(323): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+  DrawDoc.cpp
+  Draw.cpp
+  Cpen.cpp
+  正在生成代码...
+  Draw.vcxproj -> E:\temporary\实验三\mydraw\x64\Debug\Draw.exe
